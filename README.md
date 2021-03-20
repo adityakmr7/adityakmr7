@@ -33,7 +33,7 @@
 
 
 
-[twitter]: https://twitter.com/dev_aditya
+[twitter]: https://twitter.com/dev_adityakmr
 [youtube]: https://www.youtube.com/c/adityakumar7
 [instagram]: https://instagram.com/thisisadityak
 [linkedin]: https://linkedin.com/in/adityakmr7
