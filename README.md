@@ -37,3 +37,7 @@
 [youtube]: https://www.youtube.com/c/adityakumar7
 [instagram]: https://instagram.com/thisisadityak
 [linkedin]: https://linkedin.com/in/adityakmr7
+
+
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakmr7)](https://github.com/adityakmr7/github-readme-stats)
