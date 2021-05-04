@@ -41,3 +41,5 @@
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakmr7)](https://github.com/adityakmr7/github-readme-stats)
+<br/>
+![](https://komarev.com/ghpvc/?username=adityakmr7)
