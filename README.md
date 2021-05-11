@@ -42,4 +42,6 @@
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakmr7)](https://github.com/adityakmr7/github-readme-stats)
 <br/>
+<img align="left" alt="Aditya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakmr7&layout=compact&hide=html&theme=algolia" />
+<br/>
 ![](https://komarev.com/ghpvc/?username=adityakmr7)
