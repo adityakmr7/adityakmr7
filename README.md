@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Kumar 👋
 
-## I'm a Web Developer
+## I'm a Web and Mobile App Developer 
 
 - 🌱 Learning as many things I can 😆
 - 👯 I’m looking to collaborate with other content creators
