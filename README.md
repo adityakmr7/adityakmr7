@@ -38,10 +38,23 @@
 [instagram]: https://instagram.com/thisisadityak
 [linkedin]: https://linkedin.com/in/adityakmr7
 
-
-
+<div style="display:flex; flex-direction:row;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakmr7&layout=compact&theme=tokyonight&custom_title=Top%20Languages" width="40%"/>
+  
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakmr7)](https://github.com/adityakmr7/github-readme-stats)
 <br/>
-<img align="left" alt="Aditya's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakmr7&layout=compact&hide=html&theme=algolia" />
-<br/>
-![](https://komarev.com/ghpvc/?username=adityakmr7)
+![](https://komarev.com/ghpvc/?username=adityakmr7) 
+</div>
+
+<p>
+ <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=adityakmr7&theme=react&background=0d1117&border=666">
+  </a>
+<p>
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=adityakmr7&column=6&theme=onedark" align="center"/>
+</div>
+
+
+
+
