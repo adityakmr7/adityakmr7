@@ -1,5 +1,9 @@
 ### Hi there, I'm Aditya Kumar 👋
 
+<a href="https://app.daily.dev/adityakmr7"><img src="https://api.daily.dev/devcards/d0cbe36949d24a2b9230bb04b46c94c7.png?r=dsv" width="400" alt="aditya kumar's Dev Card"/></a>
+
+
+
 ## I'm a Web and Mobile App Developer 
 
 - 🌱 Learning as many things I can 😆
